@@ -20,3 +20,6 @@ redis                   3.0-alpine                    856249f48b0c        3 year
 nginx                   1.10-alpine                   f94d6dd9b576        3 years ago         54MB
 
 bash-5.1#
+
+docker: Error response from daemon: OCI runtime create failed: container_linux.go:349: starting container process caused "exec: \"/bin/bash\": stat /bin/bash: no such file or directory": unknown.
+ERRO[0000] error waiting for container: context canceled
