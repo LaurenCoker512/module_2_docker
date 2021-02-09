@@ -18,3 +18,5 @@ gentux/nginx            fpm                           ab7e3c8b9353        3 mont
 gentux/python           3.6-flask-0.11-slim-onbuild   1147db6c7f67        18 months ago       663MB
 redis                   3.0-alpine                    856249f48b0c        3 years ago         12.6MB
 nginx                   1.10-alpine                   f94d6dd9b576        3 years ago         54MB
+
+bash-5.1#
