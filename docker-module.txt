@@ -29,3 +29,28 @@ bash-5.1#
 Hello, World!
 
 Hello, World!
+
+REPOSITORY                TAG                           IMAGE ID            CREATED             SIZE
+gentux/alpine-bash        laurencoker512                9aa621ab1481        2 minutes ago       7.76MB
+<none>                    <none>                        b70f85c67d77        4 minutes ago       7.76MB
+<none>                    <none>                        6e563df27cc8        20 minutes ago      7.76MB
+alpine                    latest                        e50c909a8df2        11 days ago         5.61MB
+postgres                  9.5                           0abcae79b0bd        2 weeks ago         197MB
+mysql                     5.7                           a70d36bc331a        3 weeks ago         449MB
+warehouse_web             latest                        86f72b789718        3 weeks ago         29.4MB
+warehouse_app             latest                        bb21e3080797        3 weeks ago         1.27GB
+warehouse_celery-cron     latest                        bb21e3080797        3 weeks ago         1.27GB
+warehouse_celery          latest                        bb21e3080797        3 weeks ago         1.27GB
+postgres                  latest                        acf5fb8bfd76        3 weeks ago         314MB
+mysql                     5.6                           0ebb5600241d        7 weeks ago         302MB
+shared-ecomm-js_web       latest                        ea83ca7c1bdf        2 months ago        54MB
+redis                     latest                        74d107221092        2 months ago        104MB
+postgres                  9.6                           9d3e70b5f494        2 months ago        200MB
+gentux/php                laravel-7.x-ci                9b54a2954504        3 months ago        362MB
+gentux/node               12-express-4-ci               7f902eae45f7        3 months ago        179MB
+gentux/nginx              flask                         9a312c77ffc4        3 months ago        21.8MB
+gentux/nginx              fpm                           ab7e3c8b9353        3 months ago        21.8MB
+gentux/python             3.6-flask-0.11-slim-onbuild   1147db6c7f67        18 months ago       663MB
+redis                     3.0-alpine                    856249f48b0c        3 years ago         12.6MB
+dockercloud/hello-world   latest                        0b898a637c19        3 years ago         30.8MB
+nginx                     1.10-alpine                   f94d6dd9b576        3 years ago         54MB
